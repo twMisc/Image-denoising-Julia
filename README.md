@@ -6,7 +6,7 @@ Used methods included the median filter method and the method of total variation
 
 Access the Jupyter notebook at https://github.com/twMisc/Image-denoising-Julia/blob/master/Image%20Restoration.ipynb
 
-A new ROF model approach at https://github.com/twMisc/Image-denoising-Julia/blob/master/Total%Variation%ROF.ipynb
+A new ROF model approach at https://github.com/twMisc/Image-denoising-Julia/blob/master/Total%20Variation%20ROF.ipynb
 
 Reference:
 https://github.com/znah/notebooks/blob/master/TV_denoise.ipynb
